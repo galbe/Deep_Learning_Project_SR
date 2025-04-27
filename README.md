@@ -1,6 +1,6 @@
 # Deep_Learning_Project_SR
 ## Gal Hanuna & Son Levi
-Audio super Resolution using transformers.
+Audio super Resolution using Transformers.
 
 Model is taken from: https://github.com/teo-sl/Audio-Super-Resolution-ViT/tree/main 
 
